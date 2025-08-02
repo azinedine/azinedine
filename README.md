@@ -60,7 +60,7 @@
 
 ## 🌱 Currently Learning
 
-**Next.js 15** • **React Native Reanimated 3** • **Laravel 12 Advanced Features** • **Microservices Architecture** • **ShadCN UI Components** • **TanStack Query** • **Supabase Advanced Patterns**
+**Next.js 15** • **React Native Reanimated 4** • **Laravel 12 Advanced Features** • **Microservices Architecture** • **ShadCN UI Components** • **TanStack Query** • **Supabase Advanced Patterns**
 
 ## 📊 GitHub Analytics
 

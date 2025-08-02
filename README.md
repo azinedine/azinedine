@@ -11,52 +11,11 @@
 
 ## 🚀 Current Projects
 
-<table>
-<tr>
-<td width="50%">
+**📱 Walaems** - Complete wedding & event planning ecosystem built with React Native + Laravel 12 + Supabase
 
-### 📱 Walaem App
-**Complete Wedding & Event Planning Ecosystem**
-- React Native + Expo
-- Laravel 12 + Supabase Backend
-- Advanced animations & UX
-- Microservices architecture
+**💼 Effitech** - Modern web application with full-stack development approach
 
-</td>
-<td width="50%">
-
-### 🕌 DzMushaf
-**Smart Quran Application**
-- React Native with beautiful UI/UX
-- Smart search functionality
-- Islamic content management
-- Offline-first approach
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 CareerCraft
-**Personal Branding Platform**
-- Resume builder for North African youth
-- Vue.js + Laravel backend
-- AI-powered suggestions
-- Portfolio generation
-
-</td>
-<td width="50%">
-
-### 🔧 Walaem Admin Dashboard
-**Modern Admin Interface**
-- React.js 19 + TailwindCSS
-- ShadCN + TanStack Query
-- Laravel API integration
-- Real-time analytics
-
-</td>
-</tr>
-</table>
+**🔧 Walaem Admin Dashboard** - React.js 19 + TailwindCSS + ShadCN + TanStack + Laravel API
 
 ## 🛠️ Tech Arsenal
 
@@ -99,48 +58,25 @@
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 </p>
 
-## 🌱 Currently Learning & Exploring
+## 🌱 Currently Learning
 
-```javascript
-const currentFocus = {
-  frameworks: ['Next.js 15', 'React Native Animations'],
-  backend: ['Laravel 12', 'Microservices Architecture', 'Sanctum'],
-  libraries: ['Reanimated 3', 'Moti', 'TanStack Query'],
-  databases: ['Supabase', 'MongoDB Advanced'],
-  tools: ['ShadCN', 'Zod Validation'],
-  goal: 'Building scalable, beautiful applications that matter'
-};
-```
+**Next.js 15** • **React Native Reanimated 3** • **Laravel 12 Advanced Features** • **Microservices Architecture** • **ShadCN UI Components** • **TanStack Query** • **Supabase Advanced Patterns**
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zineddine-amariche&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Zineddine's%20GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zineddine-amariche&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zineddine-amariche&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zineddine-amariche&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages)
-
-</td>
-</tr>
-</table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zineddine-amariche&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zineddine-amariche&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zineddine-amariche&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-## 🏆 Achievements & Recognition
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=zineddine-amariche&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=zineddine-amariche&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)
 
 </div>
 

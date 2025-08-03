@@ -11,7 +11,7 @@
 
 ## 🚀 Current Projects
 
-**📱 Walaems** - Complete wedding & event planning ecosystem built with React Native + Laravel 12 + Supabase
+**📱 Walaems** - Complete wedding & event planning ecosystem built with React Native + Laravel 12 
 
 **💼 Effitech** - Modern web application with full-stack development approach
 
@@ -91,9 +91,9 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lux_omega3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amariche-zineddine)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amariche_zineddine)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zinedineamarich)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineddineamariche/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azinedine_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarichezineddine@gmail.com)
 
 </div>

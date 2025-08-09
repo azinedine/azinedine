@@ -11,11 +11,11 @@
 
 ## 🚀 Current Projects
 
-**📱 Walaems** - Complete wedding & event planning ecosystem built with React Native + Laravel 12 
+**📱 Comming Soon :D ** - Complete ecosystem Saas App built with ReactJs + NextJs + React Native + Laravel 12 
 
 **💼 Effitech** - Modern web application with full-stack development approach
 
-**🔧 Walaem Admin Dashboard** - React.js 19 + TailwindCSS + ShadCN + TanStack + Laravel API
+**🔧 Admin Dashboard** - React.js 19 + TailwindCSS + ShadCN + TanStack + Laravel API
 
 ## 🛠️ Tech Arsenal
 

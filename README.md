@@ -97,12 +97,14 @@
 
 </div>
 
-## 💼 Open for Opportunities
+## 💼 Opportunities & Collaboration
 
-- 🚀 **Freelance Projects**: React Native & Laravel development
-- 🤝 **Collaborations**: Open source projects, especially for MENA region
-- 💡 **Consulting**: Mobile app architecture & modern web development
-- 📢 **Speaking**: Tech talks about React Native & Laravel
+
+- 🚀 **Freelance Projects**: React Native & Laravel development, UI/UX design, and digital marketing through Braivexa
+- 🤝 **Collaborations**: Open-source and creative tech projects, especially in the Middle East & North Africa
+- 💡 **Consulting & Mentorship**: Helping individuals and businesses grow their projects from idea to launch
+- 🎤 **Speaking**: Tech talks and workshops on React Native, Laravel, and building digital products
+- 🌟 **Braivexa Vision**: Empowering brands with innovative apps, websites, and marketing strategies that inspire and connect
 
 ---
 

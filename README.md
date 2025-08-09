@@ -80,12 +80,11 @@
 
 </div>
 
-## 📝 Content & Community
+## 📢 Content & Community
 
-- 📰 **Writing**: Tech articles on **ATM - Algerian Tech Makers** (coming soon)
-- 📚 **Planning**: "Building Walaem from Scratch" blog series
-- 🤝 **Community**: Active member of **ATM - Algerian Tech Makers**
-- 🎯 **Mission**: Inspiring the next generation of Algerian developers
+- 📚 **Planning**: "Building Walaems from Scratch" blog series
+- 🛠 **Working On**: Walaems & Braivexa projects
+- 🎯 **Mission**: Turning ideas into impactful digital products that connect, inspire, and make a difference in Algeria and beyond 🌍💡
 
 ## 🌐 Let's Connect & Collaborate
 
